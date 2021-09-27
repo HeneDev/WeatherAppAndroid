@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="haetaan">Haetaan..</string>
+    <string name="hae_kaupungin_s_tiedot">Hae kaupungin säätiedot</string>
+    <string name="C">°C</string>
+    <string name="kaupungin_nimi">Anna kaupungin nimi</string>
+</resources>
